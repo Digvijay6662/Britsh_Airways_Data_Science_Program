@@ -1,4 +1,4 @@
-# Britsh_Airways_Data_Science_Program
+# British_Airways_Data_Science_Program
 
 :shipit: This Program contains 2 Tasks:
 
